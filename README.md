@@ -1,2 +1,2 @@
 # coinyday-website
-CoinyDay App Website - MEVN Stack
+CoinyDay App Website
